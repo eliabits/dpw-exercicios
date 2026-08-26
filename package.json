@@ -1,0 +1,11 @@
+{
+  "name": "Exercicio m00",
+  "private": true,
+  "scripts": {
+    "dev:api": "pnpm --filter backend start:dev",
+    "dev:web": "pnpm --filter frontend dev"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.6"
+  }
+}
