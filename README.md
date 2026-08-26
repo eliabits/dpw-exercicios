@@ -1,4 +1,4 @@
-# DPW — Exercícios do M00
+# DPW — Exercícios do M0
 
 **Nome:** ELIABE RAFAEL OLIVEIRA SILVA
 **Ambiente:** Windows 11 + PowerShell 7
