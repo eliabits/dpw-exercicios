@@ -5,7 +5,7 @@
 
 | # | Exercício | Evidência |
 |---------|--------|--------|
-| 1 | Ambiente reprodutível | [evidencias/e1-ambiente.md](evidencias/e1-ambiente.md) · [commit inicial](y) |
+| 1 | Ambiente reprodutível | [evidencias/e1-ambiente.md](evidencias/e1-ambiente.md) · [commit inicial](ce6127c3dfcf3b069fe8b03db32187d8bb84322f) |
 | 2 | Arqueologia de histórico | [evidencias/e2-arqueologia.md](evidencias/e2-arqueologia.md) |
 | 3 | Conflito de merge | [evidencias/e3-conflito.md](evidencias/e3-conflito.md) · [commit de merge](…/commit/HASH) · [grafo](…/network) |
 | 4 | Desfazer sem pânico | [evidencias/e4-desfazer.md](evidencias/e4-desfazer.md) · [commit de revert](…/commit/HASH) |
