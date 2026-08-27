@@ -21,7 +21,7 @@ f7c8d10fb - 08/01/2017 15:09 - Initial commit
 
 ---
 
-3	Quem mais modificou packages/core/injector/injector.ts?
+# 3	Quem mais modificou packages/core/injector/injector.ts?
 - comando utilizado:
 eliab@ELIABS MINGW64 /tmp/nest (master)
 $ git log --format="%an" -- packages/core/injector/injector.ts | sort | uniq -c | sort -nr
@@ -32,7 +32,7 @@ $ git log --format="%an" -- packages/core/injector/injector.ts | sort | uniq -c 
 
 
 ---
-4	O que mudou no último commit que tocou esse arquivo?
+# 4	O que mudou no último commit que tocou esse arquivo?
 - comando utilizado: 
 eliab@ELIABS MINGW64 /tmp/nest (master)
 $ git show
