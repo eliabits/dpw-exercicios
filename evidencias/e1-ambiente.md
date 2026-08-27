@@ -1,11 +1,15 @@
-##PRIMEIRO COMANDO COM SAÍDA VAZIA
+## PRIMEIRO COMANDO COM SAÍDA VAZIA
 
+```bash
 eliab@ELIABS MINGW64 /c/dev/Dpw-exercicios (main)
 $ rm -rf node_modules
+```
 
 ---
 
-##SEGUNDO COMANDO
+## SEGUNDO COMANDO
+
+```bash
 eliab@ELIABS MINGW64 /c/dev/Dpw-exercicios (main)
 $ pnpm install --frozen-lockfile
 ✓ Lockfile passes supply-chain policies (verified 20m ago)
@@ -21,10 +25,14 @@ devDependencies:
 + prettier 3.9.6
 
 Done in 718ms using pnpm v11.24.0
+```
 
 ---
 
-##TERCEIRO COMANDO SAÍDA VAZIA
+## TERCEIRO COMANDO COM SAÍDA VAZIA
 
+```bash
 eliab@ELIABS MINGW64 /c/dev/Dpw-exercicios (main)
 $ git status --short
+```
+
